@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gayan Lankeshwara</h1>
-<h3 align="center">A postdoctoral research fellow at the University of Queensland, Australia and an adjust Research Specialist at SolarisAI Pty Ltd.</h3>
+<h3 align="center">A postdoctoral research fellow at the University of Queensland, Australia and an adjunct Senior Research Specialist at SolarisAI Pty Ltd.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayanlanke&label=Profile%20views&color=0e75b6&style=flat" alt="gayanlanke" /> </p>
 
